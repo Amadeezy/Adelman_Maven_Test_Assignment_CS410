@@ -10,7 +10,11 @@ public class CILab implements CILabInterface {
     }
 
     public boolean detectCapitalUse() {
-        return false;
+        boolean flag = false;
+        
+        
+        
+    	return flag;
     }
 
 }
