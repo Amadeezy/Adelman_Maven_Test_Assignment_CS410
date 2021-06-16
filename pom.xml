@@ -11,4 +11,9 @@
   		<scope>test</scope>
   	</dependency>
   </dependencies>
+  <build>
+  	<defaultGoal>
+  		mvn clean verify package
+  	</defaultGoal>
+  </build>
 </project>
