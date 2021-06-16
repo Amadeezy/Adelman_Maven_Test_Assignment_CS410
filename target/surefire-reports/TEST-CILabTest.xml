@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="CILabTest" time="0.04" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="CILabTest" time="0.036" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\Amadeezy\AppData\Local\Temp\surefire12618703390185671806\surefirebooter12028047972645527715.jar C:\Users\Amadeezy\AppData\Local\Temp\surefire12618703390185671806 2021-06-15T20-54-00_600-jvmRun1 surefire18276273279684958731tmp surefire_010352645129471705719tmp"/>
+    <property name="sun.java.command" value="C:\Users\Amadeezy\AppData\Local\Temp\surefire15127198532223562641\surefirebooter10097870716144128045.jar C:\Users\Amadeezy\AppData\Local\Temp\surefire15127198532223562641 2021-06-15T21-53-05_759-jvmRun1 surefire17484662903425404058tmp surefire_01588749340465735538tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Amadeezy\Documents\Bellevue College\CS Classes\CS 410\MavenAssignemtnWorking\target\test-classes;C:\Users\Amadeezy\Documents\Bellevue College\CS Classes\CS 410\MavenAssignemtnWorking\target\classes;C:\Users\Amadeezy\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.2\junit-jupiter-api-5.7.2.jar;C:\Users\Amadeezy\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Amadeezy\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Amadeezy\.m2\repository\org\junit\platform\junit-platform-commons\1.7.2\junit-platform-commons-1.7.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Amadeezy\AppData\Local\Temp\surefire12618703390185671806\surefirebooter12028047972645527715.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Amadeezy\AppData\Local\Temp\surefire15127198532223562641\surefirebooter10097870716144128045.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="12.0.2+10"/>
@@ -58,6 +58,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="56.0"/>
   </properties>
-  <testcase name="detectCapitalUseTest1" classname="CILabTest" time="0.023"/>
+  <testcase name="detectCapitalUseTest1" classname="CILabTest" time="0.02"/>
   <testcase name="detectCapitalUseTest2" classname="CILabTest" time="0.001"/>
 </testsuite>
